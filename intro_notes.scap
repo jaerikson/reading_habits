@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.2" ID="503F9E66-312D-42B8-865F-9CAA730D7764">
+  <Notes>
+    <Note ID="0" FontSize="12.0" Position="722.2,3.2" Width="153.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Reading in adolescence</String>
+      <ConnectedNoteIDs>1, 3, 9</ConnectedNoteIDs>
+      <Formatting>
+        <FormatRange Bold="Yes">0,22</FormatRange>
+      </Formatting>
+    </Note>
+    <Note ID="1" FontSize="12.0" Position="713.2,137.5" Width="191.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Reading motivation &amp; behaviors</String>
+      <ConnectedNoteIDs>0, 2, 8</ConnectedNoteIDs>
+    </Note>
+    <Note ID="2" FontSize="12.0" Position="704.2,185.5" Width="97.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Reading habits</String>
+      <ConnectedNoteIDs>1</ConnectedNoteIDs>
+    </Note>
+    <Note ID="3" FontSize="12.0" Position="922.0,138.7" Width="183.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Latinx adolescents and reading</String>
+      <ConnectedNoteIDs>0</ConnectedNoteIDs>
+    </Note>
+    <Note ID="4" FontSize="12.0" Position="1132.0,32.8" Width="200.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Parent influence on school and reading</String>
+      <ConnectedNoteIDs>5-7</ConnectedNoteIDs>
+      <Formatting>
+        <FormatRange Bold="Yes">0,38</FormatRange>
+      </Formatting>
+    </Note>
+    <Note ID="5" FontSize="12.0" Position="1028.7,87.3" Width="191.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>General academics/achievement</String>
+      <ConnectedNoteIDs>4</ConnectedNoteIDs>
+    </Note>
+    <Note ID="6" FontSize="12.0" Position="1229.5,87.1" Width="61.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Reading</String>
+      <ConnectedNoteIDs>4</ConnectedNoteIDs>
+    </Note>
+    <Note ID="7" FontSize="12.0" Position="1302.4,87.1" Width="93.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Latinx families</String>
+      <ConnectedNoteIDs>4</ConnectedNoteIDs>
+    </Note>
+    <Note ID="8" FontSize="12.0" Position="807.3,183.1" Width="110.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Reading attitudes</String>
+      <ConnectedNoteIDs>1</ConnectedNoteIDs>
+    </Note>
+    <Note ID="9" FontSize="12.0" Position="472.7,88.0" Width="67.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Overview</String>
+      <ConnectedNoteIDs>0, 10-11, 19, 24</ConnectedNoteIDs>
+    </Note>
+    <Note ID="10" FontSize="12.0" Position="208.7,95.4" Width="157.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Reading demands change</String>
+      <ConnectedNoteIDs>9, 12</ConnectedNoteIDs>
+    </Note>
+    <Note ID="11" FontSize="12.0" Position="102.2,206.9" Width="164.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Benefits of frequent reading</String>
+      <ConnectedNoteIDs>9, 13, 15, 17</ConnectedNoteIDs>
+    </Note>
+    <Note ID="12" FontSize="12.0" Position="239.9,123.9" Width="62.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>CITE TK</String>
+      <ConnectedNoteIDs>10</ConnectedNoteIDs>
+    </Note>
+    <Note ID="13" FontSize="12.0" Position="20.0,239.7" Width="147.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>vocabulary development</String>
+      <ConnectedNoteIDs>11, 14</ConnectedNoteIDs>
+    </Note>
+    <Note ID="14" FontSize="12.0" Position="29.7,272.5" Width="111.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>@Stanovich.2009</String>
+      <ConnectedNoteIDs>13</ConnectedNoteIDs>
+    </Note>
+    <Note ID="15" FontSize="12.0" Position="113.6,301.0" Width="142.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>reading comprehension</String>
+      <ConnectedNoteIDs>11, 16</ConnectedNoteIDs>
+    </Note>
+    <Note ID="16" FontSize="12.0" Position="132.5,333.6" Width="95.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>@Torppa.2020</String>
+      <ConnectedNoteIDs>15</ConnectedNoteIDs>
+    </Note>
+    <Note ID="17" FontSize="12.0" Position="219.7,240.6" Width="85.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>achievement</String>
+      <ConnectedNoteIDs>11, 18</ConnectedNoteIDs>
+    </Note>
+    <Note ID="18" FontSize="12.0" Position="226.7,271.2" Width="105.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>@Allington.2014</String>
+      <ConnectedNoteIDs>17</ConnectedNoteIDs>
+    </Note>
+    <Note ID="19" FontSize="12.0" Position="282.3,340.7" Width="200.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Reading attitudes and habits change in adolescence</String>
+      <ConnectedNoteIDs>9, 20, 23</ConnectedNoteIDs>
+    </Note>
+    <Note ID="20" FontSize="12.0" Position="265.1,389.3" Width="144.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Less time spent reading</String>
+      <ConnectedNoteIDs>19, 21-22</ConnectedNoteIDs>
+    </Note>
+    <Note ID="21" FontSize="12.0" Position="348.6,419.7" Width="113.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>@Scholastic.2022</String>
+      <ConnectedNoteIDs>20, 23</ConnectedNoteIDs>
+    </Note>
+    <Note ID="22" FontSize="12.0" Position="240.9,422.6" Width="100.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>@Duncan.2016</String>
+      <ConnectedNoteIDs>20</ConnectedNoteIDs>
+    </Note>
+    <Note ID="23" FontSize="12.0" Position="416.4,388.7" Width="187.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Less enjoyment of book reading</String>
+      <ConnectedNoteIDs>19, 21</ConnectedNoteIDs>
+    </Note>
+    <Note ID="24" FontSize="12.0" Position="449.7,234.7" Width="200.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>Recent generations read books/magazines less than previous generations</String>
+      <ConnectedNoteIDs>9, 25</ConnectedNoteIDs>
+    </Note>
+    <Note ID="25" FontSize="12.0" Position="480.7,295.7" Width="101.0">
+      <Appearance>
+        <Alignment>Left</Alignment>
+        <Border Weight="1"/>
+        <Fill>1.0 1.0 1.0</Fill>
+      </Appearance>
+      <String>@Twenge.2019</String>
+      <ConnectedNoteIDs>24</ConnectedNoteIDs>
+    </Note>
+  </Notes>
+  <BackgroundShapes/>
+  <AutoFit>0, 2-3, 5-18, 20-23, 25</AutoFit>
+  <NoteStyles>
+    <Style Name="Bubble (Blue)" ID="517E61E5-5547-41F1-AF34-43C370D47A3B" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.668962 0.810287 0.895092</BorderColor>
+      <FillColor>0.743291 0.900319 0.994547</FillColor>
+    </Style>
+    <Style Name="Bubble (Green)" ID="16674739-FB2C-4434-A65A-F516344974BB" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.669404 0.885265 0.567007</BorderColor>
+      <FillColor>0.743782 0.983628 0.630008</FillColor>
+    </Style>
+    <Style Name="Bubble (Pink)" ID="89DD7FDB-8672-4B37-A727-B5451F598552" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.894547 0.707772 0.715904</BorderColor>
+      <FillColor>0.989115 0.814114 0.999483</FillColor>
+    </Style>
+    <Style Name="Bubble (Red)" ID="AF54C7DC-82B4-4E1A-A429-DBDABD4913D2" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.894547 0.707772 0.715904</BorderColor>
+      <FillColor>0.993941 0.786413 0.795449</FillColor>
+    </Style>
+    <Style Name="Bubble (Yellow)" ID="4783396D-358A-4052-88E0-5EB9649D1B95" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+      <BorderThickness>1</BorderThickness>
+      <BorderColor>0.877748 0.828289 0.562126</BorderColor>
+      <FillColor>0.975275 0.920321 0.624584</FillColor>
+    </Style>
+    <Style Name="Red Text" ID="81D90888-F1DA-41D9-A081-3CF4238CB4AE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+      <TextColor>0.985954 0.0 0.02694</TextColor>
+    </Style>
+    <Style Name="Title Text" ID="4515597D-B419-42DB-AA0F-78C48EE06D11" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+      <FontSize>28.0</FontSize>
+      <IsBold>Yes</IsBold>
+    </Style>
+  </NoteStyles>
+  <UISettings>
+    <BackgroundColor>0.999763 0.988395 0.949915</BackgroundColor>
+    <DefaultFont>Helvetica</DefaultFont>
+    <NoteXPadding>8.0</NoteXPadding>
+  </UISettings>
+  <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScappleDocument>

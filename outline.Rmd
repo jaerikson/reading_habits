@@ -1,0 +1,34 @@
+---
+title: "Reading Habits Manuscript Outline"
+# bibliography: refs.bib
+# csl: apa.csl
+# output: html_document
+output: 
+  bookdown::html_document2:
+  # bookdown::word_document2:
+  #   reference_docx: "template_calibri.docx"
+    number_sections: false
+always_allow_html: true
+bibliography: refs.bib
+csl: apa.csl
+# biblio-title: References
+---
+
+# Introduction
+
+1.  (Brief overview of study)
+2.  **Reading in Adolescence**
+    1.  Overview
+        1.  Increased complexity/demands for reading in adolescence ("reading to learn")
+            1.  Need citations
+        2.  Benefits of frequent reading
+            1.  Stronger reading skills, including vocabulary - seminal paper on Matthew effects in reading (rich get richer) from 1986/2009 [@Stanovich.2009]
+            2.  Amount of book reading/reading frequency predicts reading comprehension among adolescents [@Duncan.2016; @Torppa.2020] (Note - @Duncan.2016 found that reading frequency only predicted comprehension for early adolescents)
+        3.  Reading declines during adolescence
+            1.  Adolescents spend less time reading books (especially for leisure) than younger children
+            2.  Recent generations of adolescents read less (books for leisure) than previous generations of adolescents
+        4.  The Role of Reading Attitudes and Behaviors
+    2.  Latinx Adolescents and Reading
+        1.  Achievement gap
+        2.  Reading habits and behaviors
+        3.  Reading attitudes and motivation

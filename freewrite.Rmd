@@ -1,0 +1,22 @@
+---
+title: "Reading Habits Freewrite"
+# just a low-pressure place to write!
+# bibliography: refs.bib
+# csl: apa.csl
+# output: html_document
+output: 
+  bookdown::html_document2:
+  # bookdown::word_document2:
+  #   reference_docx: "template_calibri.docx"
+    number_sections: false
+always_allow_html: true
+bibliography: refs.bib
+csl: apa.csl
+# biblio-title: References
+---
+
+### Parent Influence on School and Reading
+
+Parent involvement in students' education is broadly associated with academic achievement throughout primary and secondary schooling (CITE TK). This involvement can take a variety of forms, including both home-based (e.g., TK examples) and school-based (e.g., TK examples) activities. Some forms of parental involvement have also been described as academic socialization. These include EXAMPLES TK.
+
+In a meta-analysis that examined the relationship between parent involvement and academic achievement in middle school, @Hill.2009 found that academic socialization was more strongly associated with academic achievement than either home- or school-based involvement. The authors suggested that both the structure of middle schools and developmental changes during early adolescence may make academic socialization more effective than more direct home- and school-based practices. Compared with elementary schools, the organizational structure of middle schools is much more complex, with multiple teachers per student and each teacher serving many more students. This complexity limits opportunities for parents to develop partnerships with teachers and learn about the curriculum. Because academic socialization practices emphasize the value of education more broadly, this form of parental involvement may be less dependent on parents' interactions with teachers and knowledge of specific curricula.
