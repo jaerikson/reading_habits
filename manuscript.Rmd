@@ -60,8 +60,22 @@ Although Eccles and Wigfield (2020) recognize that students' sociocultural conte
 
 ## Participants
 
-[Note: I am basing the participant information for the larger study off the description in Delgado et al., 2021.] This study utilizes a subset of data that were collected as part of a larger, 3-year longitudinal project on academic identity and achievement among Latinx adolescents in the southwestern United States [TK add citations for other Alcance studies]. Inclusion criteria for the larger study were as follows: (a) adolescents were in 8th grade, (b) adolescents resided with biological mothers and/or biological or long-term adoptive fathers, and (c) biological mothers and/or biological fathers reported origins from Latin America and/or the Latin Caribbean. Adolescents and their families were recruited from five school districts in the southwestern United States between 2015 and 2017. Bilingual project staff attempted to contact 1598 families who had given schools consent to open records and share their contact information. Of these 1598 families, 531 families met eligibility criteria, and 329 families completed study activities in the first year.
+**[TK Remove this note - Note: I am basing the participant information for the larger study off the description in Delgado et al., 2021.]**
 
-Given the goals of the larger study, eligible students and theirparents met the following criteria: (a) students were in the eighth grade, (b) biological mothers and/or biological or long-term adoptivefathers were living in the students’ homes, and (c) biological mothers and/or biological fathers had origins in Latin American and LatinCaribbean countries. Eighth grade students were recruited from five school districts in the southwest, in 2015–2017. To recruit ad-olescents and their parents, we only had permission to contact families who gave school consent to open records. Bilingual project staffattempted to contact families by telephone using the school district’s open records data (N = 1598 families) to determine eligibility andinterest in participation. E
+This study utilizes a subset of data that were collected as part of a larger, 3-year longitudinal project on academic identity and achievement among Latinx adolescents in the southwestern United States [TK add citations for other Alcance studies]. Inclusion criteria for the larger study were as follows: (a) adolescents were in 8th grade, (b) adolescents resided with biological mothers and/or biological or long-term adoptive fathers, and (c) biological mothers and/or biological fathers reported origins from Latin America and/or the Latin Caribbean. Adolescents and their families were recruited from five school districts in the southwestern United States between 2015 and 2017. Bilingual project staff attempted to contact 1598 families who had given schools consent to open records and share their contact information. Of these 1598 families, 531 families met eligibility criteria, and 329 families completed study activities in the first year.
+
+## Procedure
+
+**TK add procedures here**
+
+## Measures
+
+**TK add info about reading attitude measure**
+
+The (TK add name) was used to measure reading motivation, or more specifically, reading attitudes.[^1]
+
+[^1]: The (TK name) was designed to measure students' reading attitudes, or (TK definition of reading attitudes). @Baker.1997 consider reading attitudes to be part of a broader construct of reading motivation, which may also include (TK other types of reading motivation). For the purposes of this paper, we primarily use the term reading motivation... (TK add explanation)
+
+## Data Analysis
 
 # References
