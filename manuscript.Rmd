@@ -36,13 +36,15 @@ In the United States, gaps in reading achievement between White and Latinx youth
 
 There is little research specifically addressing the reading habits of Latinx children and adolescents (TK is there ANY research on this?).
 
-## Parent Influence on School and Reading
+## Parental Influence on Reading and Academics
 
-TK Introduce SEVT and academic socialization here?
+**TK overview about reading/academic achievement/academic socialization and parent influence**
 
-### Parent Influence on Reading Habits and Attitudes*?*
+Parents play an important role in students' learning experiences, influencing not only achievement and performance outcomes [TK cite] but also more affective aspects of learning, such as students' attitudes and motivation [TK cite]. This influential role is expected within theoretical frameworks that reflect an ecological systems perspective (TK perspective? approach? something else?) [TK cite Bronfenbrenner?], in which multiple systems (e.g., home, school) interact and contribute to an individual's development.
 
-It is well-established that parents influence their children's reading attitudes and behaviors in early childhood through home literacy practices such as shared book reading [@Baker.1997; @Hume.2015]. Although more limited, additional research suggests that parents continue to influence reading attitudes and behaviors during later childhood and adolescence [@Lim.2015; @Pelletier.2024; see @Klauda.2009 for a review of earlier work]. These studies have focused on the effects of parents' reading-specific behaviors, such as encouraging adolescents to read in their free time, discussing books, and going to the bookstore or library together [@Lim.2015; @Pelletier.2024].
+### Reading Motivation and Habits
+
+It is well-established that parent practices shape children's reading motivation and habits [@Baker.1997; @Hume.2015; @Klauda.2009; @Lim.2015; @Pelletier.2024]. Parents influence early reading motivation and habits by both shaping the home environment (e.g., providing books) engaging in reading-related activities (e.g., shared reading, going to the library) [@Baker.1997; @Hume.2015]. Although much research in this area focuses on home literacy practices for young children [@Hume.2015], parents continue to influence reading motivation and habits into adolescence [@Klauda.2009; @Lim.2015; @Pelletier.2024].
 
 ### Parent Influence in Latinx Families
 
