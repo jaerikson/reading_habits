@@ -20,21 +20,29 @@ There is ample evidence that parent literacy behaviors (e.g., daily book reading
 
 # Introduction
 
-Although reading is considered critical for both academic success, both interest in reading and frequency of reading decreases during adolescence [@Scholastic.2022]. In response, several researchers have sought to understand what promotes positive reading attitudes and behaviors among adolescents [@Broeder.2013; @Lim.2015; @Pelletier.2024]. Unfortunately, none (***TK few?***) of these studies have focused on reading attitudes and habits among Latinx adolescents in the United States. This work is necessary to support Latinx youth, many of whom are at risk of lower achievement outcomes in reading [@Carris.2024; @Reardon.2009]. Although previous research has examined the role of Latinx parents in children's early literacy practices (**TK CITE**), we lack empirical evidence on how Latinx parents can continue to promote positive reading attitudes and habits during adolescence. Research with other populations of adolescents suggests that parent involvement remains important for adolescents' reading attitudes and behaviors [@Pelletier.2024]. Through a longitudinal design, the present study examines how parents, through modeling general educational beliefs and behaviors (i.e., education modeling), may promote positive reading attitudes and stronger reading habits among Latinx adolescents.
+Although reading is considered critical for academic success, both interest in reading and frequency of reading decreases during adolescence [@Scholastic.2022]. In response, researchers have sought to understand what promotes positive reading attitudes and behaviors among adolescents [@Broeder.2013; @Lim.2015; @Pelletier.2024]. This research has shown that, like in early childhood [@Baker.1997], parents play an important role in supporting adolescents' reading attitudes and habits [@Klauda.2009; @Lim.2015; @Pelletier.2024]. Unfortunately, none (***TK few?***) of these studies have focused on reading attitudes and habits among Latinx adolescents in the United States. This work is necessary to support Latinx youth, many of whom are at risk of lower achievement outcomes in reading [@Carris.2024; @Reardon.2009]. Although outside of the reading domain, prior research shows that parent beliefs and behaviors influence school-related outcomes (e.g., academic self-efficacy, math/science achievement) among Latinx adolescents [@Cross.2019i9o; @Delgado.2021]. These outcomes are consistent with an academic socialization framework [@Hill.2010] based in ecological systems theory [@Bronfenbrenner.1986]
+
+TK add something here about academic socialization/parent influence in Latinx families
+
+Through a longitudinal design, the present study examines how parents' general educational beliefs and behaviors (i.e., education modeling), may predict reading attitudes and habits among Latinx adolescents.
 
 ## Reading in Adolescence
 
-In the early years of schooling, there is great emphasis on developing proficiency in foundational reading skills, such as decoding and memorizing sight words. As students progress into late childhood and adolescence, reading demands increase, with considerable academic content being delivered in the form of textbooks, novels, informational articles, and other written materials. With this shift, there are clear advantages to being an avid reader during adolescence: frequent reading supports vocabulary development [@Stanovich.2009], reading comprehension [@Torppa.2020], and achievement [@Allington.2014]. However, despite these benefits, both the time spent on book reading [@Duncan.2016; @Scholastic.2022] and the enjoyment of book reading [@Scholastic.2022] decrease during adolescence. In in Scholastic and Fluent's (2022) *Kids & Family Reading Report*, only 46% of adolescents reported that they 'love/like a lot' reading books for fun, compared to 70% of children ages 6 to 8. Similarly, only 59% of adolescents reported that they read books for fun on 1 or more days per week, compared to 89% of children ages 6 to 8. The reading habits of today's youth are of particular concern, as researchers have witnessed a steady decline in the use of print media across several generations. For example, only 16% of 12th graders reporting daily reading of books or magazines in 2016, compared to 60% in the late 1970s [@Twenge.2019].
+In the early years of schooling, there is great emphasis on developing proficiency in foundational reading skills, such as decoding and memorizing sight words. As students progress into late childhood and adolescence, reading demands increase, with considerable academic content being delivered in the form of textbooks, novels, informational articles, and other written materials (CITE TK). With this shift, there are clear advantages to being an avid reader during adolescence: frequent reading supports vocabulary development [@Stanovich.2009], reading comprehension [@Torppa.2020], and achievement [@Allington.2014]. However, despite these benefits, both the time spent on book reading [@Duncan.2016; @Scholastic.2022] and the enjoyment of book reading [@Scholastic.2022] decrease during adolescence. In Scholastic and Fluent's (2022) *Kids & Family Reading Report*, only 46% of adolescents reported that they 'love/like a lot' reading books for fun, compared to 70% of children ages 6 to 8. Similarly, only 59% of adolescents reported that they read books for fun on 1 or more days per week, compared to 89% of children ages 6 to 8. The reading habits of today's youth are of particular concern, as researchers have witnessed a steady decline in the use of print media across several generations. For example, only 16% of 12th graders reporting daily reading of books or magazines in 2016, compared to 60% in the late 1970s [@Twenge.2019].
 
-### The Role of Reading Attitudes and Behaviors
-
-Much research related to reading has focused on cognitive abilities, reading skills, and reading achievement in both children and adolescents.
-
-## Latinx Adolescents and Reading
+### Latinx Adolescents and Reading
 
 In the United States, gaps in reading achievement between White and Latinx youth have been well-documented [@Carris.2024; @Reardon.2009], with Latinx youth earning lower scores than their White peers. Researchers have suggested that a number of factors contribute to this gap, including local immigration policies and practices [@Carris.2024], English language proficiency [@Reardon.2009], and family socioeconomic status [@Reardon.2009].
 
 There is little research specifically addressing the reading habits of Latinx children and adolescents (**TK** is there ANY research on this?).
+
+### Adolescent Reading Attitudes and Habits
+
+It is well-established that linguistic and cognitive skills (e.g., vocabulary, working memory) support reading achievement among children and adolescents [@Kudo.2015; @Peng.2018; @Peng.2019].
+
+As we have described, reading achievement is a critical topic of investigation for both researchers and policy makers. In addition to the role of individuals' linguistic and cognitive skills (e.g., vocabulary, working memory) [@Kudo.2015; @Peng.2018], researchers have
+
+Students' reading attitudes and habits are both associated with reading achievement and skills (e.g., comprehension) [@McGeown.2015; @Toste.2020].
 
 ## Parental Influence on Reading and Academics
 
@@ -42,7 +50,7 @@ There is little research specifically addressing the reading habits of Latinx ch
 
 Parents play an important role in students' learning experiences, influencing not only achievement and performance outcomes [**TK** cite] but also more affective aspects of learning, such as students' attitudes and motivation [**TK** cite]. This influential role is expected within theoretical frameworks that reflect an ecological systems perspective (**TK** perspective? approach? something else?) [**TK** cite Bronfenbrenner?], in which multiple systems (e.g., home, school) interact and contribute to an individual's development.
 
-### Reading Motivation and Habits
+### Reading Motivation (Attitudes?) and Habits
 
 It is well-established that parent practices shape children's reading motivation and habits [@Baker.1997; @Hume.2015; @Klauda.2009; @Lim.2015; @Pelletier.2024]. Parents influence early reading motivation and habits by both shaping the home environment (e.g., providing books) engaging in reading-related activities (e.g., shared reading, going to the library) [@Baker.1997; @Hume.2015]. Although much research in this area focuses on home literacy practices for young children [@Hume.2015], parents continue to influence reading motivation and habits into adolescence [@Klauda.2009; @Lim.2015; @Pelletier.2024].
 

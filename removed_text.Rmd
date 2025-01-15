@@ -17,3 +17,6 @@ csl: apa.csl
 Removed from intro: 
 
 TK Do I want this paragraph (below)? Due to the shift from "learning to read" to "reading to learn" that occurs in middle-to-late elementary school (cite TK), both adolescents and their parents are likely more focused on gaining content knowledge than reading for its own sake. Because reading is so closely tied to adolescents' academic learning (cite TK), however, parents' broader educational behaviors or beliefs (i.e., educational modeling) have the potential to influence adolescents' reading attitudes and habits. Although this process may occur among families of many different ethnic-racial backgrounds, there is reason to believe the effect of parents' educational modeling may be particularly salient for Latinx adolescents. TK stuff about familism etc maybe
+
+
+Although previous research has examined the role of Latinx parents in children's early literacy practices (TK CITE), we lack empirical evidence on how Latinx parents can continue to promote positive reading attitudes and habits during adolescence. Research with other populations of adolescents suggests that parent involvement remains important for adolescents' reading attitudes and behaviors [@Pelletier.2024]. 
