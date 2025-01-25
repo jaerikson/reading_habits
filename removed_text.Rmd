@@ -25,3 +25,7 @@ Although previous research has examined the role of Latinx parents in children's
 It is well-established that linguistic and cognitive skills (e.g., vocabulary, working memory) support reading achievement among children and adolescents [@Kudo.2015; @Peng.2018; @Peng.2019].
 
 As we have described, reading achievement is a critical topic of investigation for both researchers and policy makers. In addition to the role of individuals' linguistic and cognitive skills (e.g., vocabulary, working memory) [@Kudo.2015; @Peng.2018], researchers have
+
+Because students' reading attitudes and habits are associated with reading achievement and skills (e.g., comprehension) [@McGeown.2015; @Toste.2020], supporting the reading attitudes and habits of Latinx youth... TK add things.
+
+Although shrinking this gap requires a multi-pronged approach (CITE TK), 

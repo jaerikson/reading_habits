@@ -19,9 +19,7 @@ csl: apa.csl
 
 ### Reading Motivation and Habits
 
-**TK Add info about reading achievement outcomes!**
-
-**[TK NOTE - original version of first paragraph in this section]** It is well-established that parents influence their children's reading attitudes and behaviors in early childhood through home literacy practices such as shared book reading [@Baker.1997; @Hume.2015]. Although more limited, additional research suggests that parents continue to influence reading attitudes and behaviors during later childhood and adolescence [@Lim.2015; @Pelletier.2024; see @Klauda.2009 for a review of earlier work]. These studies have focused on the effects of parents' reading-specific behaviors, such as encouraging adolescents to read in their free time, discussing books, and going to the bookstore or library together [@Lim.2015; @Pelletier.2024].
+**[TK NOTE - original version of first paragraph is here in this section]** It is well-established that parents influence their children's reading attitudes and behaviors in early childhood through home literacy practices such as shared book reading [@Baker.1997; @Hume.2015]. Although more limited, additional research suggests that parents continue to influence reading attitudes and behaviors during later childhood and adolescence [@Lim.2015; @Pelletier.2024; see @Klauda.2009 for a review of earlier work]. These studies have focused on the effects of parents' reading-specific behaviors, such as encouraging adolescents to read in their free time, discussing books, and going to the bookstore or library together [@Lim.2015; @Pelletier.2024].
 
 **[TK NOTE - alternative version of first paragraph in this section is in manuscript document]**
 

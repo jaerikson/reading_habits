@@ -24,19 +24,32 @@ Although reading is considered critical for academic success, both interest in r
 
 ## The Importance of Adolescent Reading Attitudes and Habits
 
-In the early years of schooling, there is great emphasis on developing proficiency in foundational reading skills, such as decoding and memorizing sight words. As students progress into late childhood and adolescence, reading demands increase, with considerable academic content being delivered in the form of textbooks, novels, informational articles, and other written materials [@Wendt.2013]. With this shift, there are clear advantages to being an avid reader during adolescence: frequent reading supports vocabulary development [@Stanovich.2009], reading comprehension [@McGeown.2015; @Torppa.2020], and achievement [@Allington.2014]. Similarly, more positive reading attitudes are associated with better reading comprehension [@Conlon.2006] and higher levels of reading achievement [CITE TK].
+In the early years of schooling, there is great emphasis on developing proficiency in foundational reading skills, such as decoding and memorizing sight words. As students progress into late childhood and adolescence, reading demands increase, with considerable academic content being delivered in the form of textbooks, novels, informational articles, and other written materials [@Wendt.2013]. With this shift, there are clear advantages to being an avid reader during adolescence: frequent reading supports vocabulary development [@Stanovich.2009], reading comprehension [@McGeown.2015; @Torppa.2020], and achievement [@Allington.2014]. Similarly, more positive reading attitudes are associated with better reading comprehension [@Conlon.2006] and higher levels of reading achievement [**CITE TK**].
 
-However, despite these benefits, both time spent on book reading [@Duncan.2016; @Scholastic.2022] and enjoyment of book reading [@Scholastic.2022] decrease during adolescence. In Scholastic and Fluent's (2022) *Kids & Family Reading Report*, only 46% of adolescents reported that they 'love/like a lot' reading books for fun, compared to 70% of children ages 6 to 8. Similarly, only 59% of adolescents reported that they read books for fun on 1 or more days per week, compared to 89% of children ages 6 to 8. The reading habits of today's youth are of particular concern, as researchers have witnessed a steady decline in the use of print media across several generations. For example, only 16% of 12th graders reporting daily reading of books or magazines in 2016, compared to 60% in the late 1970s [@Twenge.2019].
+However, despite these benefits, both time spent on book reading [@Duncan.2016; @Scholastic.2022] and enjoyment of book reading [@Scholastic.2022] decrease during adolescence. A recent *Kids & Family Reading Report* [@Scholastic.2022] revealed that only 46% of adolescents 'love/like a lot' reading books for fun, compared to 70% of children ages 6 to 8. Similarly, only 59% of adolescents reported that they read books for fun on 1 or more days per week, compared to 89% of children ages 6 to 8. The reading habits of today's youth are of particular concern, as researchers have witnessed a steady decline in the use of print media across several generations. For example, only 16% of 12th graders reported daily reading of books or magazines in 2016, compared to 60% in the late 1970s [@Twenge.2019].
 
-Improving reading
+### Defining Reading Motivation and Attitudes
 
-### Latinx Adolescents and Reading
+**TK Add something about reading attitudes as part of the construct of reading motivation?**
 
-In the United States, gaps in reading achievement between White and Latinx youth have been well-documented [@Carris.2024; @Reardon.2009], with Latinx youth earning lower scores than their White peers. Researchers have suggested that a number of factors contribute to this gap, including local immigration policies and practices [@Carris.2024], English language proficiency [@Reardon.2009], and family socioeconomic status [@Reardon.2009].
+### Latinx Adolescents
+
+In the United States, gaps in reading achievement between White and Latinx youth have been well-documented [@Carris.2024; @Reardon.2009], with Latinx youth earning lower scores than their White peers. Eliminating this gap likely requires a multi-pronged approach, as researchers have indicated a number of contributing factors, including local immigration policies and practices [@Carris.2024], English language proficiency [@Reardon.2009], and family socioeconomic status [@Reardon.2009]. In addition to these, the reading achievement of Latinx youth are likely influenced by their reading attitudes and habits (**CITE TK**), as found with other populations of adolescents [@McGeown.2015; @Toste.2020].
 
 There is little research specifically addressing the reading habits of Latinx children and adolescents (**TK** is there ANY research on this?).
 
-Students' reading attitudes and habits are both associated with reading achievement and skills (e.g., comprehension) [@McGeown.2015; @Toste.2020].
+Students' reading attitudes and habits are both...\
+\
+**TK some things to consider citing:**\
+Griffin, R. A., & Farran, L. K. (2021). Reconsidering the reading motivation of adolescent Latinx multilingual learners. *The Reading Professor*, *44*(1). <https://scholar.stjohns.edu/thereadingprofessor/vol44/iss1/5>
+
+Griffin, R. A., Farran, L. K., & Mindrila, D. (2020). Reading motivation in bi/multilingual Latinx adolescents: An exploratory structural equation model. *Reading Psychology*, *41*(8), 856–892. <https://doi.org/10.1080/02702711.2020.1801540>
+
+Neugebauer, S. R., & Blair, E. E. (2020). “I know how to read and all, but...”: Disciplinary reading constructions of middle school students of color. *Journal of Literacy Research*, *52*(3), 316–340. <https://doi.org/10.1177/1086296x20938780>
+
+Quirk, M., Swami, S., Loera, G., & Garcia, S. (2020). Latinx adolescents’ reading motivation profiles and associations with higher education aspirations. *Literacy Research and Instruction*, *59*(3), 218–239. <https://doi.org/10.1080/19388071.2020.1752862>
+
+Sutter, C. C., & Campbell, L. O. (2022). The role of academic self-determined reading motivation, reading self-concept, home reading environment, and student reading behavior in reading achievement among American Indian and Hispanic students. *Contemporary Educational Psychology*, *70*, 102093. <https://doi.org/10.1016/j.cedpsych.2022.102093>
 
 ## Parental Influence on Reading and Academics
 
@@ -46,9 +59,13 @@ Parents play an important role in students' learning experiences, influencing no
 
 ### Reading Motivation (Attitudes?) and Habits
 
+**TK update motivation –\> attitudes or decide how to address this**
+
 It is well-established that parent practices shape children's reading motivation and habits [@Baker.1997; @Hume.2015; @Klauda.2009; @Lim.2015; @Pelletier.2024]. Parents influence early reading motivation and habits by both shaping the home environment (e.g., providing books) engaging in reading-related activities (e.g., shared reading, going to the library) [@Baker.1997; @Hume.2015]. Although much research in this area focuses on home literacy practices for young children [@Hume.2015], parents continue to influence reading motivation and habits into adolescence [@Klauda.2009; @Lim.2015; @Pelletier.2024].
 
 ### Parent Influence in Latinx Families
+
+TK WRITE THINGS HERE
 
 ## The Present Study
 
@@ -64,7 +81,7 @@ Although Eccles and Wigfield (2020) recognize that students' sociocultural conte
 
 ## Participants
 
-**[TK Remove this note - Note: I am basing the participant information for the larger study off the description in Delgado et al., 2021.]**
+**[TK Remove this note - Comment: I am basing the participant information for the larger study off of the description in Delgado et al., 2021.]**
 
 This study utilizes a subset of data that were collected as part of a larger, 3-year longitudinal project on academic identity and achievement among Latinx adolescents in the southwestern United States [**TK** add citations for other Alcance studies]. Inclusion criteria for the larger study were as follows: (a) adolescents were in 8th grade, (b) adolescents resided with biological mothers and/or biological or long-term adoptive fathers, and (c) biological mothers and/or biological fathers reported origins from Latin America and/or the Latin Caribbean. Adolescents and their families were recruited from five school districts in the southwestern United States between 2015 and 2017. Bilingual project staff attempted to contact 1598 families who had given schools consent to open records and share their contact information. Of these 1598 families, 531 families met eligibility criteria, and 329 families completed study activities in the first year.
 
